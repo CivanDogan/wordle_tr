@@ -1,4 +1,5 @@
-##Wordle TR
+##Wordle TR##
+
 This is just a sunday morning project for waking up.
 
 Turkish version of wordle in python :) 
